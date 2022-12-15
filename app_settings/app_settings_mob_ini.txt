@@ -1,0 +1,7 @@
+app_settings_mob.php
+Imvital
+app_settings_mob
+SIM
+contr
+app_settings
+LigMd5
